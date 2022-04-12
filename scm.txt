@@ -1,1 +1,2 @@
-HELLO how are you? 
+HELLO how are you? my first line in activity1
+/
